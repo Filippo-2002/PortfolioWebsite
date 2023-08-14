@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from "react";
 import AboutMenuItem from "./AboutMenuItem";
 import AboutSubheading from "./AboutSubheading";
 import subheadingsData from "./SubheadingData";
@@ -6,7 +6,7 @@ import personalIcon from "../assets/moebius-triangle.png";
 import educationIcon from "../assets/upgrade.png";
 import careerIcon from "../assets/triple-corn.png";
 
-export default class AboutMenu {
+export default class AboutMenu extends Component {
   constructor(props) {
     super(props);
     this.state = {
