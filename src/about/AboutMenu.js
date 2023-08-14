@@ -6,7 +6,7 @@ import personalIcon from "../assets/moebius-triangle.png";
 import educationIcon from "../assets/upgrade.png";
 import careerIcon from "../assets/triple-corn.png";
 
-export default class AboutMenu extends Component {
+export default class AboutMenu {
   constructor(props) {
     super(props);
     this.state = {
