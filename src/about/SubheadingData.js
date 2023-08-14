@@ -5,8 +5,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Rising Senior at the University of Southern California (USC), interested in the world of tech with professional experience as a web-developer and finance analyst.
             </p>
           </>
         ),
@@ -14,23 +13,11 @@ const subheadingsData = {
     ],
     2: [
       {
-        title: "2016 Masters Degree",
+        title: "Computer Science/Busines Administration (BS) 2020 - 2024 ",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </>
-        ),
-      },
-      {
-        title: "2014 Bachelors Degree",
-        content: (
-          <>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Combined Bachelor of Science degree in Computer Science and Business Administration - Viterbi School of Engineering.
             </p>
           </>
         ),
@@ -38,34 +25,41 @@ const subheadingsData = {
     ],
     3: [
       {
-        title: "2022 Front End Developer",
+        title: "Asset Management Analyst - Araújo Fontes",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Summer Internship - July & August (2022).  
             </p>
           </>
         ),
       },
       {
-        title: "2020 UX Designer",
+        title: "Finance Analyst - Presidente Empreendimentos Imobiliários",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+             Part-time - August 2018 - December 2021.
             </p>
           </>
         ),
       },
       {
-        title: "2017 IT Consultant",
+        title: "Software Developer & Property Manager Assistant - San Domani",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Part-Time - January 2019 - January 2020.
+            </p>
+          </>
+        ),
+      },
+      {
+        title: "E-commerce store-owner - Shopify",
+        content: (
+          <>
+            <p>
+              Self-Employed - June 2018 - March 2019. 
             </p>
           </>
         ),

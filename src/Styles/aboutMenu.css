@@ -35,43 +35,51 @@
     position: fixed;
     display: flex;
     flex-direction: column;
-    top: 32%;
+    top: 37%;
     right: 10vw;
     cursor: pointer;
   }
   
   .active-subheading {
-    
     cursor: default;
   }
   
   .item.active:nth-child(1) {
-    background: linear-gradient(90deg, var(--transparent), var(--purple) 70%);
-    border-radius: var(--radius-right);
+    background: linear-gradient(90deg, transparent, rgba(255, 0, 0, 0.652) 70%);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
   }
   .item.active:nth-child(2) {
-    background: linear-gradient(90deg, var(--transparent), var(--blue) 70%);
-    border-radius: var(--radius-right);
+    background: linear-gradient(90deg, transparent, rgba(255, 0, 0, 0.652) 70%);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
   }
   .item.active:nth-child(3) {
-    background: linear-gradient(90deg, var(--transparent), var(--cyan) 70%);
-    border-radius: var(--radius-right);
+    background: linear-gradient(90deg, transparent, rgba(255, 0, 0, 0.652) 70%);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
   }
   
   .sub-container-1.active-subheading h3,
   .sub-container-2.active-subheading h3,
   .sub-container-3.active-subheading h3 {
-    border-radius: var(--radius-left);
+    border-radius: left;
   }
   
   .sub-container-1.active-subheading h3 {
-    background: linear-gradient(90deg, var(--purple), var(--transparent) 100%);
+    background: linear-gradient(270deg, transparent, rgba(255, 0, 0, 0.652) 70%);
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
   }
   .sub-container-2.active-subheading h3 {
-    background: linear-gradient(90deg, var(--blue), var(--transparent) 100%);
+    background: linear-gradient(270deg, transparent, rgba(255, 0, 0, 0.652) 70%);
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
   }
   .sub-container-3.active-subheading h3 {
-    background: linear-gradient(90deg, var(--cyan), var(--transparent) 100%);
+    background: linear-gradient(270deg, transparent, rgba(255, 0, 0, 0.652) 70%);
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
   }
   
   .item.active {
