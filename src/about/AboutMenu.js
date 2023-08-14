@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import AboutMenuItem from "./AboutMenuItem";
 import AboutSubheading from "./AboutSubheading";
 import subheadingsData from "./SubheadingData";
