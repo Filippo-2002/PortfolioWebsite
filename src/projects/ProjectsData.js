@@ -4,13 +4,13 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
+    title: "Anime/Novel Database",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+         Cellphone/Computer compatible anime and novel tracker app. Pulls 
+         from databases and saves to internal storage.
         </p>
       </>
     ),
