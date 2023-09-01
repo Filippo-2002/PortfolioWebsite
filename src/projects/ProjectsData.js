@@ -14,8 +14,8 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/Filippo-2002/Anime-Novel-Web-App.git",
+    demo: "https://mellow-cupcake-98dba1.netlify.app",
   },
   2: {
     title: "Productivity App",
