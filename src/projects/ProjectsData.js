@@ -18,18 +18,17 @@ const projects = {
     demo: "https://mellow-cupcake-98dba1.netlify.app",
   },
   2: {
-    title: "Productivity App",
+    title: "School_Forum",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Multi-threaded school forum coded in Java, JavaScript, HTML, CSS, and supported by MongoDB database.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/jennykim515/trojanchat.git",
+    demo: "https://drive.google.com/file/d/1BpF1W7sBfObWG-A3gDhd9_jhmIIdRzh0/view?usp=sharing",
   },
   3: {
     title: "Food Delivery App",
