@@ -4,7 +4,7 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "Anime/Novel Database",
+    title: "Anime/Novel Database (in prog...)",
     image: projectOne,
     description: (
       <>
